@@ -2,3 +2,4 @@ dataset/*
 dataset-temp/*
 *.zip
 exported/models/*
+*.ipynb_checkpoints
